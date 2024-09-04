@@ -1,0 +1,13 @@
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.WinForms.dll
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.WinForms.pdb
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.dll
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.dll
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Windows.dll
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.pdb
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.xml
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Windows.xml
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.csproj.AssemblyReference.cache
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.372B2AF9.Up2Date
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.dll
+C:\Users\Nicholas\Desktop\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.pdb

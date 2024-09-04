@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aC7uoc7yjIg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicholas\\Desktop\\PalmSens SDK for WinForms 5.9\\PSLibraries\\PalmSens.Core.Simplified.WinForms\\PalmSens.Core.Simplified.WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicholas\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
